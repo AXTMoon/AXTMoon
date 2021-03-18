@@ -16,7 +16,14 @@
 📈 My GitHub Stats  
   
 ![My github stats](https://github-readme-stats.vercel.app/api?username=AXTMoon&show_icons=true&theme=radical)
-<!--
-**AXTMoon/AXTMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+```javascript
+const thai = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java, c++, c],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+}
+```
 
