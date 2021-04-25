@@ -13,7 +13,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>  
   
-📈 My GitHub Stats  
+📈 My GitHub Stats  :D
   
 <img align="Left" alt="Vazity's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AXTMoon&show_icons=true&hide_border=true&theme=dark" />  
 <img style="float: right;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AXTMoon&layout=compact&hide_border=true&theme=dark" />
