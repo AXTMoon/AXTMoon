@@ -23,7 +23,7 @@
 ```javascript
 const thai = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java, c++, c],
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java, c++, c, c#, PARA],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
 }
