@@ -17,7 +17,7 @@
   
 📈 My GitHub Stats  :D
   
-<img align="Left" alt="Vazity's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AXTMoon&show_icons=true&hide_border=true&theme=dark" />
+<img align="Left" alt="AXTMoon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AXTMoon&show_icons=true&hide_border=true&theme=dark" />
 <br>
 <img style="float: right;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AXTMoon&layout=compact&hide_border=true&theme=dark" />
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
