@@ -17,7 +17,6 @@
   
 <img align="Left" alt="Vazity's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AXTMoon&show_icons=true&hide_border=true&theme=dark" />  
 <img style="float: right;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AXTMoon&layout=compact&hide_border=true&theme=dark" />
-[![trophy](https://github-profile-trophy.vercel.app/?username=axtmoon-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
