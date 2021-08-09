@@ -1,5 +1,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
+![Profile views](https://gpvc.arturio.dev/iamsey)  
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## Im AXTMoon
 **Languages and Tools:**  
@@ -30,4 +31,6 @@ const thai = {
   architecture: ["microservices", "event-driven", "design system pattern"],
 }
 ```
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamsey)  
+
 
